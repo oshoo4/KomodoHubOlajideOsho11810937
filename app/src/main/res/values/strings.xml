@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">KomodoHub</string>
+    <string name="view_species_info">View Species Information</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="list_of_endangered_species">List of endangered species</string>
+    <string name="species_list_item">Species List Item</string>
+    <string name="back_button">Back Button</string>
+    <string name="species_image">Species Image</string>
+    <string name="conservation_status">"Conservation Status: "</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="access_code">Access Code: </string>
+    <string name="first_name">First Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="generate_access_code">Generate Access Code</string>
+    <string name="logout">Logout</string>
+    <string name="access_code_clean">Access Code</string>
+    <string name="last_name">Last Name</string>
+    <string name="create_and_assign_conservation_activity">Create and Assign Conservation Activity</string>
+    <string name="view_messages_from_students">View Messages from Students</string>
+    <string name="send_message_to_class">Send Message to Class</string>
+    <string name="create_activity">Create Activity</string>
+    <string name="activity_name">Activity Name</string>
+    <string name="activity_description">Activity Description</string>
+    <string name="create_and_assign">Create and Assign</string>
+    <string name="view_all_created_conservation_activities">View all Created Conservation Activities</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="you_have_not_created_any_activities">You have not created any activities</string>
+    <string name="contribute_content_for_an_activity">Contribute Content for an Activity</string>
+    <string name="view_conservation_activities_from_teacher">View Conservation Activities from Teacher</string>
+    <string name="view_messages_from_teacher">View Messages from Teacher</string>
+    <string name="send_message_to_teacher">Send Message to Teacher</string>
+    <string name="you_have_not_been_assigned_any_activities">You have not been assigned any activities</string>
+    <string name="contribute_content">Contribute Content</string>
+    <string name="common_name">Common Name</string>
+    <string name="scientific_name">Scientific Name</string>
+    <string name="description">Description</string>
+    <string name="image_url">Image URL</string>
+    <string name="contribute">Contribute</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="send">Send</string>
+    <string name="you_currently_don_t_have_any_messages">You currently don\'t have any messages</string>
+
+    <string-array name="roles_array">
+        <item>teacher</item>
+        <item>student</item>
+    </string-array>
+</resources>
